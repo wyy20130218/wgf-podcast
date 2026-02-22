@@ -1,0 +1,26 @@
+name: Update RSS
+on:
+  push:
+    paths:
+      - '**.mp3'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+      - name: Generate RSS
+        run: python generate_rss.py
+      - name: Commit and push
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add rss.xml
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update RSS" && git push)
