@@ -3,6 +3,7 @@ on:
   push:
     paths:
       - '**.mp3'
+      - '**.m4a'
   workflow_dispatch:
 
 jobs:
