@@ -3,14 +3,20 @@
   <channel>
     <title>我的 NotebookLM 播客</title>
     <description>我的专属 AI 播客频道</description>
-    <link>https://wyy20130218.github.io/wgf-podcast/</link>
+    <link>https://wyy20130218.github.io/wgf-podcast</link>
     <language>zh-cn</language>
 
     <item>
       <title>怦然心动整理魔法-用于音频播客发布的</title>
-      <enclosure url="https://wyy20130218.github.io/wgf-podcast//%E6%80%A6%E7%84%B6%E5%BF%83%E5%8A%A8%E6%95%B4%E7%90%86%E9%AD%94%E6%B3%95-%E7%94%A8%E4%BA%8E%E9%9F%B3%E9%A2%91%E6%92%AD%E5%AE%A2%E5%8F%91%E5%B8%83%E7%9A%84.mp3" type="audio/mpeg" length="21952219"/>
-      <pubDate>Sun, 22 Feb 2026 15:36:22 GMT</pubDate>
-      <guid>https://wyy20130218.github.io/wgf-podcast//%E6%80%A6%E7%84%B6%E5%BF%83%E5%8A%A8%E6%95%B4%E7%90%86%E9%AD%94%E6%B3%95-%E7%94%A8%E4%BA%8E%E9%9F%B3%E9%A2%91%E6%92%AD%E5%AE%A2%E5%8F%91%E5%B8%83%E7%9A%84.mp3</guid>
+      <enclosure url="https://wyy20130218.github.io/wgf-podcast/%E6%80%A6%E7%84%B6%E5%BF%83%E5%8A%A8%E6%95%B4%E7%90%86%E9%AD%94%E6%B3%95-%E7%94%A8%E4%BA%8E%E9%9F%B3%E9%A2%91%E6%92%AD%E5%AE%A2%E5%8F%91%E5%B8%83%E7%9A%84.mp3" type="audio/mpeg" length="21952219"/>
+      <pubDate>Mon, 23 Feb 2026 05:12:24 GMT</pubDate>
+      <guid>https://wyy20130218.github.io/wgf-podcast/%E6%80%A6%E7%84%B6%E5%BF%83%E5%8A%A8%E6%95%B4%E7%90%86%E9%AD%94%E6%B3%95-%E7%94%A8%E4%BA%8E%E9%9F%B3%E9%A2%91%E6%92%AD%E5%AE%A2%E5%8F%91%E5%B8%83%E7%9A%84.mp3</guid>
+    </item>
+    <item>
+      <title>原文件怦然心动整理魔法</title>
+      <enclosure url="https://wyy20130218.github.io/wgf-podcast/%E5%8E%9F%E6%96%87%E4%BB%B6%E6%80%A6%E7%84%B6%E5%BF%83%E5%8A%A8%E6%95%B4%E7%90%86%E9%AD%94%E6%B3%95.m4a" type="audio/x-m4a" length="35322308"/>
+      <pubDate>Mon, 23 Feb 2026 05:12:24 GMT</pubDate>
+      <guid>https://wyy20130218.github.io/wgf-podcast/%E5%8E%9F%E6%96%87%E4%BB%B6%E6%80%A6%E7%84%B6%E5%BF%83%E5%8A%A8%E6%95%B4%E7%90%86%E9%AD%94%E6%B3%95.m4a</guid>
     </item>
   </channel>
 </rss>
